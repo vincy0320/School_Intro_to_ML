@@ -1,0 +1,1 @@
+This project implemented Feedforward Neural Network trained by backpropagation with 0, 1 and 2 hidden layers and RBFN to classify classification datasets and compare the results produced by each of the network.
