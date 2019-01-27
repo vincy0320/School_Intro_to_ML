@@ -1,0 +1,1 @@
+This project implemented Winnow and Naive Bayes algorithm to perform classification on selected datasets. 
