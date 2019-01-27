@@ -1,0 +1,1 @@
+ This project implemented the unsupervised feature selection, Stepwise Forward Selection, with clustering algorithms, K-mean clustering and Hierarchical clustering, to different data sets.
