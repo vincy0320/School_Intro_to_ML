@@ -1,0 +1,1 @@
+This project implemented Naive Bayes and Logistic Regression algorithm to classify classification datasets and compare the results produced by each of the two algorithms.
