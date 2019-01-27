@@ -1,0 +1,1 @@
+This project Implemented ID3 algorithm and reduced-error pruning on Decision Tree to classify classification datasets and compare the results produced by trees grown to completion and by pruned trees.
